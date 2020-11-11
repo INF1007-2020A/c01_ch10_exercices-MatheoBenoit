@@ -74,6 +74,7 @@ def integrale_graph():
     pyplot.plot(x, y, "r")
     pyplot.fill_between(x, y)
     pyplot.show()
+    #voir screenshot pour methode plus complexe 11 nov
 
 
 def integrale():
